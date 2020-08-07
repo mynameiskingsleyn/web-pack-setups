@@ -1,0 +1,13 @@
+button{
+  min-width:100px;
+  background-color:blue;
+  color:white;
+  height:20px;
+  cursor: pointer;
+  outline: none;
+  border-radius:5%;
+}
+
+button:hover {
+  background-color: #ccc;
+}
